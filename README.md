@@ -1,2 +1,2 @@
 # Spotify-clone
-this is an clone of spotify.
+this is a clone of spotify.
